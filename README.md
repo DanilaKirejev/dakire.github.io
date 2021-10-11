@@ -13,7 +13,8 @@ table, th, td {
 
 <h1 style="text-align:center;color:red;">213092IAIB</h1>
 <p style="text-align:center;font-size:35px;color:red;">Danila Kirejev</p>
-<a href=https://taltech.ee/>TALTECH</p>
+<a href=https://taltech.ee/>TALTECH</a>
+
 <h1>Macan, Кино</h1>
 <p>Пацаны мечтают раскидать долги
 И улететь в закат, на новой Панамере
